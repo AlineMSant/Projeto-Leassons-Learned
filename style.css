@@ -1,85 +1,69 @@
 body {
-background-color: rgb(253, 251, 251);
-font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: rgb(253, 251, 251);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 header {
-position: fixed;
-top: 0;
-left:0;
-width: 100%;
-background-color: green;
-color: white;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: green;
+  color: white;
 }
 
-nav a{
-text-decoration: none;
-color: white;
-font-size: 15px;
-font-weight: bold;
+nav a {
+  text-decoration: none;
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
 }
 
 nav {
-margin-top: 70px;
-position: fixed;
-left: 0;
-background-color: green;
-width: 100%;
+  margin-top: 70px;
+  position: fixed;
+  left: 0;
+  background-color: green;
+  width: 100%;
 }
 
 nav:hover a {
-color:black ;
+  color: black;
 }
 
 img {
-margin-top: 90px;
+  margin-top: 90px;
 }
 
 
 .lado-direito {
-float: right;
-width: 50%;
+  float: right;
+  width: 50%;
 }
 
 .lado-esquerdo {
-float: left;
-width: 50%;
+  float: left;
+  width: 50%;
 }
 
-ul, ol {
-padding: 50px;
-line-height: 30px;
-display: inline-block;
+ul , ol {
+  padding: 50px;
+  line-height: 30px;
+  display: inline-block;
 }
 
-table{
-border: 2px solid grey;
+table {
+  border: 2px solid grey;
 }
 
 table tr td {
-font-size: 20px;
+  font-size: 20px;
 }
 
 footer {
-    position: absolute;
-    bottom:0;
-    left: 0;
-    width: 100%;
-    font-size: 10px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  font-size: 10px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
