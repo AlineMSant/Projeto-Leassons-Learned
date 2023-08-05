@@ -1,10 +1,18 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Lessons Learned
+
+## Descrição
+Primeiro projeto realizado na Trybe utilizando CSS e HTML para apresentar lições aprendidas.
+
+## Como rodar o projeto? :construction: Estilização em construção ! :construction:
+```bash
+npm install
+```
+Foi utilizada a extensão "Live Server" para rodar no navegador.
+
+## Habilidades desenvolvidas:
+- CSS;
+- HTML.
+  
+## Formas de contato:
+Email: alinems4120@gmail.com <br>
+Linkedin: <a href="https://www.linkedin.com/in/alinemourasantos-dev/" target="_blank">Clique aqui</a>
